@@ -1,2 +1,2 @@
-![](https://visitor-badge.glitch.me/badge?page_id=devmsg.readme)
+![](http://antzuhl.cn:4000/get/@devmsg.readme)
 
